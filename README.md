@@ -33,7 +33,7 @@ Users should be able to:
 
 [Live site URL here](https://mendezpvi.github.io/fem-social-proof-section/) 👈
 
-<!-- [Solution in Frontend Mentor here]() 👈 -->
+[Solution in Frontend Mentor here](https://www.frontendmentor.io/solutions/social-proof-section-using-grid-and-flexbox-8Ayw79Gj4L) 👈
 
 ## Built with :hammer_and_pick:
 
